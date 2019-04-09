@@ -100,3 +100,23 @@ a.button:hover {
 .features-item-text {
 	padding: 15px 0 100px 0;
 }
+
+.customers-title {
+	color: #333;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 27px;
+	padding: 90px 0 75px 0;
+}
+
+.customers-list {
+	display: grid;
+	grid-template-rows: 261px 261px;
+	grid-template-columns: repeat(4, 261px);
+	grid-column-gap: 30px;
+	grid-row-gap: 42px;
+	justify-content: center;
+	padding-bottom: 110px;
+}
+
