@@ -69,3 +69,34 @@ a.button:hover {
 	color: #f15921;
 	background: #fff;
 }
+
+.features {
+	background-color: #f2f2f2;
+}
+
+.features-title {
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 27px;
+	text-align: center;
+	padding: 87px 0;
+}
+
+.features-list {
+	display: flex;
+	justify-content: space-around;
+}
+
+.features-item {
+	display: inline-block;
+	text-align: center;
+	color: #757575;
+}
+
+.features-item-img {
+	min-height: 55px;
+}
+
+.features-item-text {
+	padding: 15px 0 100px 0;
+}
