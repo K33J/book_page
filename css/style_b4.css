@@ -87,3 +87,22 @@ a.button:hover {
 	font-size: 16px;
 	font-weight: 400;
 }
+
+.customers {
+	text-align: center;
+}
+
+.customers-title {
+	padding: 90px 0 75px 0;
+	color: #333;
+	font-size: 30px;
+	font-weight: bold;	
+}
+
+.customers-list {
+	margin-bottom: 110px;
+}
+
+.customers-item {
+	padding-bottom: 40px;
+}
