@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Tahoma", sans-serif;
+}
+
+header {
+	padding: 77px 0 98px 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.header-text-title {
+	margin-bottom: 15px;
+	font-size: 48px;
+	font-weight: 700;
+}
+
+.header-text-subtitle {
+	margin-bottom: 35px;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.header-text-description {
+	/*max-width: 530px;*/
+	margin-bottom: 47px;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 27px;
+}
+
+.header-text-price {
+	margin-bottom: 53px;
+	color: #313131;
+	font-size: 48px;
+	font-weight: 400;
+}
+
+.button {
+	padding: 22px 42px;
+	margin-right: 40px;
+
+	border: 2px solid #f15921;
+	border-radius: 5px;
+	
+	font-size: 24px;
+	font-weight: bold;
+	color: #fff;
+	background: #f15921;
+}
+
+a.button:hover {
+	color: #f15921;
+	background: #fff;
+}
